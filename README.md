@@ -43,7 +43,9 @@ Here are some ideas to get you started:
 <br>
 
 
-
+<a href="#sanjeewa999-title">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=sanjeewa999&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="sanjeewa999" align="left" />
+</a>
 
 <a href="#sanjeewa999-title">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeewa999&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="sanjeewa999" align="right" />
